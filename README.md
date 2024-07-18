@@ -32,7 +32,7 @@ To explore this project, follow these steps:
     ```
 2. **Open the .pkt File**:
     - Open Cisco Packet Tracer.
-    - Open the `NetworkSimulation.pkt` file located in the cloned repository.
+    - Open the `MINI PROJECT CISCO.pkt` file located in the cloned repository.
 
 
 
