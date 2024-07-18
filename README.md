@@ -1,5 +1,5 @@
 
-# Network Simulation for Albion University
+# Campus Network for University
 
 ## Overview
 This project involves planning, designing, and prototyping the network topology for Albion University's network using Cisco Packet Tracer. The network spans two campuses, including various buildings with specific networking requirements.
